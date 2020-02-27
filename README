@@ -1,0 +1,9 @@
+Algorithms to test my knowledge of Java concepts
+
+1.  Created a function to print the duplicates in an array list of strings by iterating over nested for loops to check if the string characters were the same in the list
+
+2.  Created a function to check if the string is a palindrome using a while loop to check if the characters were the same while traversing the string forwards and backwards.  the function returned true or false.
+
+3.  Created a function that will print "fizz" if the number is divisible by 3, "buzz" if the number is divisible by 5, and "fizz buzz" if the number is divisible by both.  Used a for loop to iterate through a number sequence and while checking if those numbers were multiples of 3, 5, or 15.
+
+4.  Created a function to check if two strings are anagrams.  First part of function checks to see if the string lengths are equal and if not the function is false.  If the string lengths are equal then used for loop to compare the character of each string and check if they are the same.
